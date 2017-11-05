@@ -1,0 +1,26 @@
+1) YouTube :-		URL	  : 
+			Help taken: Start with Gtk functionalites
+				    Gtk installation
+2) StackOverFlow :-	URL	  : www.stackoverflow.com
+			Help taken: Gtk dialog boxes, arguments to dialog box, creating toolbar
+				    Background color.
+3) GenomeDevelopers:-	URL	  : developer.gnome.org
+			Help taken: Whole gtk entry
+				    Whole gtk window
+				    window properties(editable/non-editable)
+				    Buttons
+4) GeeksForGeeks:-	URL	  : www.geeksforgeeks.com
+			Help taken: Bactracting algorithm for sudoku solving
+				    Gtk message boxes
+5) 1sudoku :-		URL	  : 1sudoku.com
+			Help taken: Rules of sudoku
+				    Difficulty levels of sudoku
+6) Wikipedia :-		URL	  : en.m.wikipedia.org
+				    Sudoku solving algorithms
+				    Glossary of sudoku
+Some randow google search for other logic (don't remember exact site).
+Person :-
+1) Jay patil
+	Help taken : identifying some bugs and more functionalities I should implement(suggestions)
+
+				     				
